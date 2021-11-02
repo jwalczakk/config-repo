@@ -1,1 +1,1 @@
-test: XYZ
+test: 'Default configuration with application.yml'
